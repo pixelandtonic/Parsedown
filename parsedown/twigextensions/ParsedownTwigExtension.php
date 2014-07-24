@@ -43,11 +43,13 @@ class ParsedownTwigExtension extends \Twig_Extension
 	{
 		if ($parseAs == 'line')
 		{
-			return craft()->parsedown->parseLine($text);
+			$parsed = craft()->parsedown->parseLine($text);
 		}
 		else
 		{
-			return craft()->parsedown->parseText($text);
+			$parsed = craft()->parsedown->parseText($text);
 		}
+
+		return TemplateHelper::getRaw($parsed);
 	}
 }
