@@ -1,0 +1,8 @@
+{
+	"config": {
+		"vendor-dir": "parsedown/vendor"
+	},
+	"require": {
+		"erusev/parsedown": "dev-master"
+	}
+}
