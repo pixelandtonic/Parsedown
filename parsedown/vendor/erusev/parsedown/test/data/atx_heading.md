@@ -10,6 +10,8 @@
 
 ###### h6
 
+####### not a heading
+
 # closed h1 #
 
 #
