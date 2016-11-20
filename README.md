@@ -44,6 +44,10 @@ $parsedLine = craft()->parsedown->parseLine($entry->title);
 
 ## Changelog
 
+### 1.2
+
+* Updated erusev/parsedown to 1.6.1.
+
 ### 1.1
 
 * Updated to take advantage of new Craft 2.5 plugin features.

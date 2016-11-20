@@ -6,5 +6,13 @@
         "notes": [
             "[Improved] Updated to take advantage of new Craft 2.5 plugin features."
         ]
+    },
+    {
+        "version": "1.2",
+        "downloadUrl": "https://github.com/pixelandtonic/Parsedown/archive/1.2.zip",
+        "date": "2016-11-20-20T12:00:00-08:00",
+        "notes": [
+            "[Improved] Updated erusev/parsedown to 1.6.1."
+        ]
     }
 ]
