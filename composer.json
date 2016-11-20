@@ -3,6 +3,6 @@
 		"vendor-dir": "parsedown/vendor"
 	},
 	"require": {
-		"erusev/parsedown": "dev-master"
+		"erusev/parsedown": "^1.6"
 	}
 }
